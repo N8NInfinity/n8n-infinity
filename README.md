@@ -54,7 +54,7 @@ With n8n Infinity, you can:
 ## 🌍 Compatibility
 
 - **iOS 17+** (optimized for iPhone and iPad)  
-- Works with **self-hosted n8n instances** (requires API access)  
+- Works with **self-hosted n8n instances** & **n8n hosted cloud instances** (requires API access)  
 
 ---
 
