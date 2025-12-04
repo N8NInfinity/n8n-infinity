@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="logo.png" alt="n8n Infinity Logo" width="120" />
+  <img src="logo-n8n-infinity.png" alt="n8n Infinity Logo" width="120" />
 </p>
 
 <h1 align="center">n8n Infinity</h1>
 
 <p align="center">
-<a href="https://apps.apple.com/app/n8n-infinity/id6441306541" align="center">
+<a href="https://apps.apple.com/us/app/infinity-workflows/id6753588659" align="center">
   <img src="appStoreDownload.svg" alt="Download on the App Store"  width="150"/>
 </a>
 </p>
@@ -78,9 +78,9 @@ If you find a bug 🐛 or have a feature idea 💡:
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshots & video
 
-*(Coming soon)*
+Visit our website at: https://www.n8ninfinity.com
 
 ---
 
