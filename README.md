@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <strong>Manage and control your n8n workflows right from your iPhone or iPad.</strong><br>
+  <strong>Manage and control your n8n workflows right from your iPhone, Mac or Apple Watch.</strong><br>
   Your personal n8n companion app for monitoring, executing, and exploring your automation universe.
 </p>
 
@@ -21,7 +21,7 @@
 
 ## 🧭 About this repository
 
-This repository is **dedicated to collecting issues, feature requests, and bug reports** for the **n8n Infinity** iOS application.  
+This repository is **dedicated to collecting issues, feature requests, and bug reports** for the **n8n Infinity** application.  
 If you encounter a problem, want to suggest an improvement, or share feedback — please open a new issue!
 
 👉 [Create an issue](../../issues/new)
@@ -30,13 +30,14 @@ If you encounter a problem, want to suggest an improvement, or share feedback �
 
 ## 📱 What is n8n Infinity?
 
-**n8n Infinity** is an iOS application designed for users of [n8n](https://n8n.io), the powerful workflow automation tool.  
-It connects directly to your own n8n instance and lets you manage your workflows anywhere, anytime — from your pocket.
+**n8n Infinity** is an application for iOS, macOS and watchOS designed for users of [n8n](https://n8n.io), the powerful workflow automation tool.  
+It connects directly to your own n8n instance and lets you manage your workflows anywhere, anytime.
 
 With n8n Infinity, you can:
 
 - 🎨 **Customize workflow metadata**: set colors, icons, and personalize your dashboard  
 - ⭐ **Manage favorites** for quick access to your most-used workflows  
+- 🗂️ **Manage Data tables, variables, projects and users**
 - ⚙️ **Browse and control executions**: filter, search, and inspect detailed execution data  
 - 🔔 **Receive notifications** for workflow errors, starts, and completions  
 - 🧭 **Use the Execution Navigator** to explore step-by-step execution flow  
@@ -51,10 +52,19 @@ With n8n Infinity, you can:
 
 ---
 
+## ⚠️ Disclaimer
+
+**n8n Infinity** is an unofficial application and is not affiliated with, endorsed by, or connected to n8n.io or its creators.
+
+---
+
 ## 🌍 Compatibility
 
-- **iOS 17+** (optimized for iPhone and iPad)  
-- Works with **self-hosted n8n instances** (requires API access)  
+- **iOS 18.6+**
+- **macOS 15.6+**
+- **watchOS**
+- Compatible with **iOS 26** and **macOS 26**
+- Works with **self-hosted n8n instances** (requires API access) & **n8n hosted cloud instances** (requires API access)  
 
 ---
 
@@ -83,7 +93,7 @@ If you’d like to help shape n8n Infinity, join the discussion via GitHub Issue
 
 ## 📄 License
 
-n8n Infinity is a proprietary iOS application.  
+n8n Infinity is a proprietary application.  
 This repository is **only** for community discussion, issue tracking, and feature feedback.
 
 ---
